@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  border: 2px solid black;
+  width: 50%;
+
+}
+.lanel{
+  width: 500px !important;
+ margin-left: 15%;
+ padding: 10px;
+}
